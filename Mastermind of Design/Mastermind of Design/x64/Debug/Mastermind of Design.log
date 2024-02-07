@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Mastermind of Design\Mastermind of Design\Stack.h(30,1): warning C4812: obsolete declaration style: please use 'Stack<T>::Stack' instead
+  (compiling source file 'Source.cpp')
+  
+  Mastermind of Design.vcxproj -> C:\Users\User\source\repos\Mastermind of Design\x64\Debug\Mastermind of Design.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
